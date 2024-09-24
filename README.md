@@ -1,5 +1,7 @@
 <div style="text-align: center;">
+  <center>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRZIZCeWekkLEQ0GzKtXMoNZs0MY_d4QqcQ&s" alt="Logo CKAN" title="Logo CKAN">
+  </center>
 </div>
 
 # Étude de solution de catalogage : CKAN
